@@ -1,0 +1,12 @@
+.text-center{
+    text-align: center;
+}
+.moredetails-card{
+    box-shadow: 0 2px 20px 0 rgb(85, 85, 85);
+    margin: 50px;
+    padding: 30px;
+}
+.img-mored{
+    width: 200px;
+    height: 200px;
+}

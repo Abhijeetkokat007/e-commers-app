@@ -1,0 +1,30 @@
+.box-input{
+    display: block;
+    margin: 20px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+
+.div-form{
+    text-align: center;
+}
+.add-page{
+    text-align: center;
+    /* border: 2px solid black; */
+    margin: auto auto;
+    width: 345px; 
+    padding: 20px;
+    box-shadow: 0 2px 20px 0  rgb(69, 68, 68);
+}
+.btn-add{
+    background-color: brown;
+    color: white;
+    height: 35px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: none;
+}
+.btn-add:hover{
+    background-color: rgb(18, 16, 16);
+}

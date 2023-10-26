@@ -1,0 +1,73 @@
+.card-data{
+    box-shadow: 0 2px 20px 0 rgb(82, 82, 82);
+    width: 300px;
+    margin: 40px;
+    padding: 20px;
+    position: relative;
+}
+.img-data{
+    width: 200px;
+    height: 200px;
+
+}
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.btn-more{
+
+bottom: 15px;
+background: none;
+border: none;
+padding:5px 5px;
+
+cursor: pointer;
+}
+.btn-more:hover{
+color: blue;
+}
+.price{
+    margin-bottom: 30px;
+}
+.delet-card{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+}
+.delet-card:hover{
+    border: 1px solid black;
+}
+
+.update-card{
+    bottom: 10px;
+    position: absolute;
+   
+    right: 10px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+}
+.update-card:hover{
+    border: 1px solid black;
+}
+.des-card{
+color: rgb(66, 65, 65);
+}
+
+.brand-card{
+   position: absolute;
+   top: 0px;
+   left: 0;
+   border-radius: 0 0 30px 0;
+   padding:5px 10px;
+   background-color: rgb(238, 151, 151); 
+}
